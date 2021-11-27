@@ -1,0 +1,51 @@
+== function updateProduk masih bermasalah ==> (sukses)
+== fungsi searching() masih error ==> (udah pake dataTables)
+== pagination Admin ==> (udah pake dataTables)
+
+
+Kalo niat, pecah fungsi tambahProduk() => -tambahProduk() yang natural dan upload() ==> (sukses)
+
+- CRUD metode pembayaran ==> (sukses)
+- CRUD kelola staff ==> (sukses)
+- Read data kelola pelanggan ==> (sukses)
+
+
+
+============= Next Progress ==============
+1. Kelola Pesanan (admin)
+2. Display data(kategori dan produk) di web urshoesshop menggunakan data dari db ==> (sukses)
+3. Buat logic belanja
+4. Integrasi dashboard
+5. Pagination produk
+6. Deskripsi produk
+
+
+===> Tambahan <===
+1. Kalo bisa pake fungsi unlink() buat menghapus image yang tidak terpakai di folder ==> (belakangan)
+
+
+YANG BELUM
+1. Deskripsi produk ==>product_details.php (Nama produk, Gambar, Add to Cart)
+2. Cart==>cart.php (Product, Price, Quantity, Total, Subtotal)
+3. Proceed to checkout ==>checkout.php (Your Order)
+4. Proceed to Payment ==>payment.php (order code, total, billing address, order details, +metode pembayaran & I Agree)
+5. Order List ==>orderlist.php (Meniru tokopekita)
+6. Konfirmasi pembayaran => Confirmation ==> confirmation.php (meniru tokopekita)
+7. Blog
+
+Admin
+8. Kelola Pesanan ==> kelolapesanan.php
+9. ID Pesanan (meniru tokopekita) ==> order.php
+10. Edit (Kelola Toko) ==> front-end
+
+1=>Dyah
+(5 6)=>Dyah 
+7 10=>Yola
+
+<=================================================>
+1. Blog -> Dyah
+2. Contact -> Jhon
+3. Display tab orderlist
+4. Home -> Jhon
+5. Pagination -> Jhon
+6. Isi dekripsi produk -> Yola
